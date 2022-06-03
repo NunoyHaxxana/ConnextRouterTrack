@@ -91,4 +91,10 @@ https://rinkeby.etherscan.io/tx/0x90b4de9706cd92892611f6f4b64102a6c09bba5e408efc
 - 
 
 3) Router Connext Quests (10-500 points)
-- 
+
+- Quick Router setup
+https://github.com/NunoyHaxxana/Router-Connext-Quests-2
+
+
+- Docker & server monitor via zabbix
+https://github.com/NunoyHaxxana/Router-Connext-Quests-3
